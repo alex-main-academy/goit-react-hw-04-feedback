@@ -1,0 +1,18 @@
+.feedback__button {
+    border: none;
+    cursor: pointer;
+    width: 80px;
+    height: 30px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    transition-duration: 500ms;
+    border: 1px solid black;
+}
+
+.feedback__button:hover {
+    background-color: white;
+    color: black;
+}
